@@ -9,8 +9,12 @@
 @end
 
 @interface TodoController: UIViewController
-@property (weak, nonatomic) IBOutlet UITextField *nameField;
-@property (weak, nonatomic) IBOutlet UITextView *descriptionField;
+
+@property IBOutlet UITextField * nameField;
+@property IBOutlet UITextView * descriptionField;
+
+-(IBAction) textFieldDidEndEditing:(id) textField;
+
 @end
 
 @interface ToDosController: UITableViewController

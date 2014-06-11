@@ -26,6 +26,9 @@
                     <rect key="frame" x="79" y="87" width="221" height="30"/>
                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                     <textInputTraits key="textInputTraits" returnKeyType="done"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="Sbk-mW-KgD"/>
+                    </connections>
                 </textField>
                 <textView appearanceType="aqua" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ECL-S5-eOk">
                     <rect key="frame" x="20" y="183" width="280" height="202"/>

@@ -7,11 +7,14 @@ class TodoController < UIViewController
   attr_accessor :todo
 
   # UITextFieldDelegate
-  def textFieldDidEndEditing(textField)
+  def textFieldShouldReturn(textField)
     @todo ||= Todo.new(nil, nil)
     @todo.name = textField.text
+
     textField.resignFirstResponder
+    true
   end
+
 
   # UITextViewDelegate
 

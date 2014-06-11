@@ -10,42 +10,12 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>04683B94DFB740FE9325D44A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>C28F3BADA99D46239238E918</string>
-				<string>7CD32078AA404F2585A5E1AF</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>0470BEB353CB467A86819ABD</key>
+		<key>1F3D4D8661FB4D1EAB1C4096</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>8E43016184C442CD9C76EE3C</string>
-				<string>39394BA3DEE742DB9684CFD5</string>
-				<string>3D02EF93A12D4C2DAD6CEC36</string>
-				<string>3A79ED6719F94D08BAE40A59</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0A809A2E210B4EDB998DB194</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>23A4B5AF03764DF59CB98615</string>
-				<string>3852F696033A427D8B7148FB</string>
+				<string>8BB590053BC9400985E2F23C</string>
+				<string>60CE86CCE6B7455F87327199</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -56,139 +26,119 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0C8402879EFD4C5EADCF8C9D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3D02EF93A12D4C2DAD6CEC36</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>23A4B5AF03764DF59CB98615</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Stubs.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>327566F15DB04F77929CA17F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>file.xib</string>
-			<key>path</key>
-			<string>TodoController.xib</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3469C227102D4021925EA257</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3852F696033A427D8B7148FB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3852F696033A427D8B7148FB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Stubs.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>39394BA3DEE742DB9684CFD5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>QuartzCore.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>3A79ED6719F94D08BAE40A59</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreData.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreData.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>3C1C96C14EFF45A4B5AACF6E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8E43016184C442CD9C76EE3C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3D02EF93A12D4C2DAD6CEC36</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreGraphics.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>53879B47253B462EA6D4971E</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libib.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6424804DC63A4B8187BBEA28</key>
+		<key>1FF5F310841548C8B6C1EA83</key>
 		<dict>
 			<key>children</key>
-			<array/>
+			<array>
+				<string>57598443AB7B458688DA21C2</string>
+				<string>5926BAAC0977478CA4B7248E</string>
+				<string>53FD55662C674C52B9AC8729</string>
+				<string>1F3D4D8661FB4D1EAB1C4096</string>
+				<string>E0E6356C7C464A7B956A476B</string>
+			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>path</key>
-			<string>/Users/ksolo/Projects/MotionApps/RubyMotionToDo/vendor/Pods/Headers</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>66525E261F0D419FBDA18040</key>
+		<key>334E522E218C4E83B28AF22C</key>
+		<dict>
+			<key>attributes</key>
+			<dict>
+				<key>LastUpgradeCheck</key>
+				<string>0510</string>
+			</dict>
+			<key>buildConfigurationList</key>
+			<string>8C8CA797D0614936A2DA9325</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
+			<array>
+				<string>en</string>
+			</array>
+			<key>mainGroup</key>
+			<string>1FF5F310841548C8B6C1EA83</string>
+			<key>productRefGroup</key>
+			<string>57598443AB7B458688DA21C2</string>
+			<key>projectDirPath</key>
+			<string></string>
+			<key>projectReferences</key>
+			<array/>
+			<key>projectRoot</key>
+			<string></string>
+			<key>targets</key>
+			<array>
+				<string>3E8493B6FED9464D9BCABF29</string>
+			</array>
+		</dict>
+		<key>33CDE721A8A6445E8166B0D7</key>
+		<dict>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>4.3</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>3A459D38C01A447CBD1C8B82</key>
+		<dict>
+			<key>fileRef</key>
+			<string>45621385C69B4055BBA5A315</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3E8493B6FED9464D9BCABF29</key>
 		<dict>
 			<key>buildConfigurationList</key>
-			<string>04683B94DFB740FE9325D44A</string>
+			<string>84201D066CA14089821837DF</string>
 			<key>buildPhases</key>
 			<array>
-				<string>C56114F92D8C48BF8F5704B9</string>
-				<string>6FFC5B1B35114AF1841521B0</string>
+				<string>5398C9DE66E44F6AB796677E</string>
+				<string>F02B5354D22D4221903CE2BB</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -201,16 +151,42 @@
 			<key>productName</key>
 			<string>ib</string>
 			<key>productReference</key>
-			<string>53879B47253B462EA6D4971E</string>
+			<string>E631646DF9D14AACB9ED1770</string>
 			<key>productType</key>
 			<string>com.apple.product-type.library.static</string>
 		</dict>
-		<key>6BCC905B9FD84E7EAB16FD0B</key>
+		<key>45621385C69B4055BBA5A315</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>QuartzCore.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>5398C9DE66E44F6AB796677E</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>8E8175C7D6B947D9998523BF</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>53FD55662C674C52B9AC8729</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>AC583D0499B34BAB9C07E77E</string>
-				<string>327566F15DB04F77929CA17F</string>
+				<string>A828E21D12BB42168D9BDACA</string>
+				<string>77E247C6A613436A9CEBDFE2</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -221,23 +197,75 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6FFC5B1B35114AF1841521B0</key>
+		<key>55C9F4D9A43C41C39C83BE72</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Foundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>57598443AB7B458688DA21C2</key>
+		<dict>
+			<key>children</key>
 			<array>
-				<string>3C1C96C14EFF45A4B5AACF6E</string>
-				<string>BA358677AD2C4AF7950D27E5</string>
-				<string>0C8402879EFD4C5EADCF8C9D</string>
-				<string>C4FB146676EB43348B5D5EE1</string>
+				<string>E631646DF9D14AACB9ED1770</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>79B5ACB31AF54791992F2D94</key>
+		<key>5926BAAC0977478CA4B7248E</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>63C23890327D40839523F94E</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>60CE86CCE6B7455F87327199</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Stubs.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>63C23890327D40839523F94E</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>55C9F4D9A43C41C39C83BE72</string>
+				<string>45621385C69B4055BBA5A315</string>
+				<string>C5D5B9B16B5A4EC2A14643DA</string>
+				<string>A4F0422ABB004F869DC355E9</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6537CFA6AB4E4FD8BCEB79DF</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -291,82 +319,119 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>7CD32078AA404F2585A5E1AF</key>
+		<key>77E247C6A613436A9CEBDFE2</key>
 		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>4.3</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>file.xib</string>
+			<key>path</key>
+			<string>TodoController.xib</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8E43016184C442CD9C76EE3C</key>
+		<key>7F10952CF62E43409CE1948A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>55C9F4D9A43C41C39C83BE72</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>84201D066CA14089821837DF</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>E8CE62B3133F4BB69931A953</string>
+				<string>33CDE721A8A6445E8166B0D7</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>8ACD8E973A6540E6B144C14B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A4F0422ABB004F869DC355E9</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8BB590053BC9400985E2F23C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Stubs.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8C8CA797D0614936A2DA9325</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>D3D92D5E18C94352B5B655B0</string>
+				<string>6537CFA6AB4E4FD8BCEB79DF</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>8E8175C7D6B947D9998523BF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>60CE86CCE6B7455F87327199</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A4F0422ABB004F869DC355E9</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>Foundation.framework</string>
+			<string>CoreData.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreData.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>A159C2C624BB4EC1A50B73B1</key>
+		<key>A828E21D12BB42168D9BDACA</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>BD6BD361A4124246A9DBBD34</string>
-				<string>C0E9DC4F002E4C029ADF425D</string>
-				<string>6BCC905B9FD84E7EAB16FD0B</string>
-				<string>0A809A2E210B4EDB998DB194</string>
-				<string>6424804DC63A4B8187BBEA28</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>Default-568h@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>ABEF375EADA141E99AD9831F</key>
+		<key>C5D5B9B16B5A4EC2A14643DA</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreGraphics.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>D3D92D5E18C94352B5B655B0</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -429,87 +494,33 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>AC583D0499B34BAB9C07E77E</key>
+		<key>E0E6356C7C464A7B956A476B</key>
 		<dict>
+			<key>children</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>path</key>
+			<string>/Users/ksolo/Projects/MotionApps/RubyMotionToDo/vendor/Pods/Headers</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E631646DF9D14AACB9ED1770</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
 			<key>includeInIndex</key>
-			<string>1</string>
+			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>Default-568h@2x.png</string>
+			<string>libib.a</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>BA358677AD2C4AF7950D27E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>39394BA3DEE742DB9684CFD5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BD6BD361A4124246A9DBBD34</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>53879B47253B462EA6D4971E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BF361391BE9F4033916B6743</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0510</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>D4C87127D48447C981DA0FF6</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>A159C2C624BB4EC1A50B73B1</string>
-			<key>productRefGroup</key>
-			<string>BD6BD361A4124246A9DBBD34</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>66525E261F0D419FBDA18040</string>
-			</array>
-		</dict>
-		<key>C0E9DC4F002E4C029ADF425D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0470BEB353CB467A86819ABD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C28F3BADA99D46239238E918</key>
+		<key>E8CE62B3133F4BB69931A953</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -557,42 +568,31 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>C4FB146676EB43348B5D5EE1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3A79ED6719F94D08BAE40A59</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C56114F92D8C48BF8F5704B9</key>
+		<key>F02B5354D22D4221903CE2BB</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>3469C227102D4021925EA257</string>
+				<string>7F10952CF62E43409CE1948A</string>
+				<string>3A459D38C01A447CBD1C8B82</string>
+				<string>F461785BAF7C43188ADFB941</string>
+				<string>8ACD8E973A6540E6B144C14B</string>
 			</array>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
+			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>D4C87127D48447C981DA0FF6</key>
+		<key>F461785BAF7C43188ADFB941</key>
 		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>ABEF375EADA141E99AD9831F</string>
-				<string>79B5ACB31AF54791992F2D94</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
+			<key>fileRef</key>
+			<string>C5D5B9B16B5A4EC2A14643DA</string>
 			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>PBXBuildFile</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>BF361391BE9F4033916B6743</string>
+	<string>334E522E218C4E83B28AF22C</string>
 </dict>
 </plist>
