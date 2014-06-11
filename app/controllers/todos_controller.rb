@@ -27,7 +27,8 @@ class ToDosController < UITableViewController
 
   # Actions
   def add_item
-    puts "I was pressed to add things!"
+    todo_controller = TodoController.alloc.init
+    self.navigationController.pushViewController(todo_controller, animated: true)
   end
 
 end
