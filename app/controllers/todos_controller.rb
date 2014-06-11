@@ -1,5 +1,6 @@
 class ToDosController < UITableViewController
 
+  # Overrides
   def viewDidLoad
     super
 
@@ -10,6 +11,7 @@ class ToDosController < UITableViewController
     self.navigationItem.rightBarButtonItem = UIBarButtonItem.alloc.initWithBarButtonSystemItem(UIBarButtonSystemItemAdd ,target: self, action: "add_item")
   end
 
+  # DataSource Delegate Methods
   def tableView(tableView, numberOfRowsInSection: section)
     @todos.length
   end
@@ -23,6 +25,7 @@ class ToDosController < UITableViewController
     cell
   end
 
+  # Actions
   def add_item
     puts "I was pressed to add things!"
   end
